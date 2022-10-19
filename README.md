@@ -9,6 +9,7 @@ Several mods exclusively for LGX lite on the stealburner toolhead + mod to depor
 link for connectors i use (7 pins): https://fr.aliexpress.com/item/1005002669709542.html?spm=a2g0o.order_list.0.0.3a085e5bvKGPOk&gatewayAdapt=glo2fra
 
 ![mirror](https://github.com/CarlosRodriguess/Mods-for-LGX-lite/blob/main/IMAGES/Connector%20pogo.png)
+
 inspired by Hartk SB2040 mod
 
   3- mod to close the back of the stealthburner and replace the chain_anchor
