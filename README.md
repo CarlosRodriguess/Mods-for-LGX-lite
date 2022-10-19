@@ -12,4 +12,4 @@ link for connectors i use (7 pins): https://fr.aliexpress.com/item/1005002669709
 
   3- mod to close the back of the stealthburner and replace the chain_anchor
   
-  
+![mirror](https://github.com/CarlosRodriguess/Mods-for-LGX-lite/blob/main/IMAGES/grids_LGX-lite-ombilical-huvud.png)  
