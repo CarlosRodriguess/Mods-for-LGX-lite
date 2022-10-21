@@ -26,4 +26,4 @@ To get the honeycomb grid, use the mod-Grids_modifier.stl file in the slicer wit
 
 7- change settings (modify fill density for grid size)
 
-![mirror](https://github.com/CarlosRodriguess/Mods-for-LGX-lite/blob/main/IMAGES/img_7.png)
+![mirror](https://github.com/CarlosRodriguess/Mods-for-LGX-lite/blob/main/IMAGES/img_8.png)
