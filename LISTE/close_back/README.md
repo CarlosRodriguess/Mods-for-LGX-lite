@@ -12,7 +12,7 @@ To get the honeycomb grid, use the mod-Grids_modifier.stl file in the slicer wit
 4- And select fill angle
 ![mirror](https://github.com/CarlosRodriguess/Mods-for-LGX-lite/blob/main/IMAGES/img_4.png)
 
-5- And select Permeters shell then infill 
+5- And select Perimeters shell then infill 
 ![mirror](https://github.com/CarlosRodriguess/Mods-for-LGX-lite/blob/main/IMAGES/img_5.png)
 
 6- click Perimeters & Shell; infill
