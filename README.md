@@ -19,3 +19,8 @@ inspired by Hartk SB2040 mod
   4- Z_joint_ge5c modified to accommodate the y-endstop microswitch
   
   ![mirror](https://github.com/CarlosRodriguess/Mods-for-LGX-lite/blob/main/IMAGES/Y_endstop.png)
+
+
+choose the canboard mount according to your board for LGX lite on the GitHub of KayosMaker for example
+
+https://github.com/KayosMaker/CANboard_Mounts/tree/main/STLs
